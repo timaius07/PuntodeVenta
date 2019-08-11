@@ -124,5 +124,12 @@ namespace frmMenu.GUI
             frmClient.Show(this);
             this.Enabled = false;
         }
-    }
+
+		private void PictFacturar_Click(object sender, EventArgs e)
+		{
+			frmFacturar frmFacturar = new frmFacturar();
+			frmFacturar.Show(this);
+			this.Enabled = false;
+		}
+	}
 }

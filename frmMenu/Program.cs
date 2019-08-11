@@ -17,7 +17,7 @@ namespace frmMenu
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmMenu.GUI.frmFacturar());
+            Application.Run(new frmMenu.GUI.FrmMenu());
         }
     }
 }
