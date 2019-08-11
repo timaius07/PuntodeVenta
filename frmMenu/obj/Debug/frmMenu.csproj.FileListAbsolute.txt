@@ -1,0 +1,9 @@
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.exe.config
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.exe
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.pdb
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.Form1.resources
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.Properties.Resources.resources
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.csproj.GenerateResource.Cache
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.exe
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.pdb

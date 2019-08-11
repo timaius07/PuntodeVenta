@@ -1,0 +1,56 @@
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmArticulos.resources
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.FrmMenu.resources
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.Properties.Resources.resources
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\Ventas.csproj.GenerateResource.Cache
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.exe
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.pdb
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.exe.config
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.exe
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\frmMenu.pdb
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\Npgsql.dll
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\System.Threading.Tasks.Extensions.dll
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\Npgsql.xml
+c:\users\marco\documents\visual studio 2015\Projects\frmMenu\frmMenu\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Marco\Documents\Visual Studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmMarca.resources
+C:\Users\Marco\Documents\Visual Studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.FrmDepartamento.resources
+C:\Users\Marco\Documents\Visual Studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmClientes.resources
+C:\Users\Marco\Documents\Visual Studio 2015\Projects\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmFacturar.resources
+N:\Universidad\frmMenu\frmMenu\bin\Debug\frmMenu.exe.config
+N:\Universidad\frmMenu\frmMenu\bin\Debug\frmMenu.exe
+N:\Universidad\frmMenu\frmMenu\bin\Debug\frmMenu.pdb
+N:\Universidad\frmMenu\frmMenu\bin\Debug\Npgsql.dll
+N:\Universidad\frmMenu\frmMenu\bin\Debug\System.Threading.Tasks.Extensions.dll
+N:\Universidad\frmMenu\frmMenu\bin\Debug\Npgsql.xml
+N:\Universidad\frmMenu\frmMenu\bin\Debug\System.Threading.Tasks.Extensions.xml
+N:\Universidad\frmMenu\frmMenu\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmArticulos.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmClientes.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.FrmDepartamento.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmFacturar.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmMarca.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.FrmMenu.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.Properties.Resources.resources
+N:\Universidad\frmMenu\frmMenu\obj\Debug\Ventas.csproj.GenerateResource.Cache
+N:\Universidad\frmMenu\frmMenu\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.exe
+N:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.pdb
+O:\Universidad\frmMenu\frmMenu\bin\Debug\frmMenu.exe.config
+O:\Universidad\frmMenu\frmMenu\bin\Debug\frmMenu.exe
+O:\Universidad\frmMenu\frmMenu\bin\Debug\frmMenu.pdb
+O:\Universidad\frmMenu\frmMenu\bin\Debug\Npgsql.dll
+O:\Universidad\frmMenu\frmMenu\bin\Debug\System.Threading.Tasks.Extensions.dll
+O:\Universidad\frmMenu\frmMenu\bin\Debug\Npgsql.xml
+O:\Universidad\frmMenu\frmMenu\bin\Debug\System.Threading.Tasks.Extensions.xml
+O:\Universidad\frmMenu\frmMenu\obj\Debug\Ventas.csprojResolveAssemblyReference.cache
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmArticulos.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmClientes.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.FrmDepartamento.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmFacturar.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.frmMarca.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.GUI.FrmMenu.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.Properties.Resources.resources
+O:\Universidad\frmMenu\frmMenu\obj\Debug\Ventas.csproj.GenerateResource.Cache
+O:\Universidad\frmMenu\frmMenu\obj\Debug\Ventas.csproj.CoreCompileInputs.cache
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.exe
+O:\Universidad\frmMenu\frmMenu\obj\Debug\frmMenu.pdb
